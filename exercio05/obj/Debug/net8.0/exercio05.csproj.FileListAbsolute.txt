@@ -1,0 +1,14 @@
+C:\Users\Aluno\Desktop\Csharp\exercio05\bin\Debug\net8.0\exercio05.exe
+C:\Users\Aluno\Desktop\Csharp\exercio05\bin\Debug\net8.0\exercio05.deps.json
+C:\Users\Aluno\Desktop\Csharp\exercio05\bin\Debug\net8.0\exercio05.runtimeconfig.json
+C:\Users\Aluno\Desktop\Csharp\exercio05\bin\Debug\net8.0\exercio05.dll
+C:\Users\Aluno\Desktop\Csharp\exercio05\bin\Debug\net8.0\exercio05.pdb
+C:\Users\Aluno\Desktop\Csharp\exercio05\obj\Debug\net8.0\exercio05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\Csharp\exercio05\obj\Debug\net8.0\exercio05.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\Csharp\exercio05\obj\Debug\net8.0\exercio05.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\Csharp\exercio05\obj\Debug\net8.0\exercio05.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Csharp\exercio05\obj\Debug\net8.0\exercio05.dll
+C:\Users\Aluno\Desktop\Csharp\exercio05\obj\Debug\net8.0\refint\exercio05.dll
+C:\Users\Aluno\Desktop\Csharp\exercio05\obj\Debug\net8.0\exercio05.pdb
+C:\Users\Aluno\Desktop\Csharp\exercio05\obj\Debug\net8.0\exercio05.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\Csharp\exercio05\obj\Debug\net8.0\ref\exercio05.dll
